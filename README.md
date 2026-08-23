@@ -43,26 +43,25 @@ Built with HTML, CSS and vanilla JavaScript, the page simulates a real-world cre
 
 ```
 lumio-studio/
-├── src/
-│   ├── index.html
-│   ├── assets/
-│   │   └── images/
-│   │       ├── post-video.jpg
-│   │       ├── post-linkedin.jpg
-│   │       ├── post-content-strategy.jpg
-│   │       ├── zola-skincare.jpg
-│   │       ├── stackr-saas.jpg
-│   │       ├── nordia-app.jpg
-│   │       ├── mellow-coffee.jpg
-│   │       ├── content-strategy.jpg
-│   │       ├── copy-and-seo.jpg
-│   │       ├── video-production.jpg
-│   │       └── visual-design.jpg
-│   ├── css/
-│   │   ├── main.css
-│   │   └── _variables.css
-│   └── js/
-│       └── main.js       
+├── index.html
+├── assets/
+│   └── images/
+│       ├── post-video.jpg
+│       ├── post-linkedin.jpg
+│       ├── post-content-strategy.jpg
+│       ├── zola-skincare.jpg
+│       ├── stackr-saas.jpg
+│       ├── nordia-app.jpg
+│       ├── mellow-coffee.jpg
+│       ├── content-strategy.jpg
+│       ├── copy-and-seo.jpg
+│       ├── video-production.jpg
+│       └── visual-design.jpg
+├── css/
+│   ├── main.css
+│   └── _variables.css
+├── js/
+│   └── main.js       
 ├── LICENSE
 ├── README.md
 └── preview.png  
