@@ -3,7 +3,7 @@
 This repository contains a landing page for a fictional digital content agency called **Lumio Studio**, built from scratch for educational purposes and portfolio demonstration.
 Built with HTML, CSS and vanilla JavaScript, the page simulates a real-world creative agency website with animated carousels, a services section, portfolio work, client testimonials, and a contact section.
 
-🔗 **Live demo:** https://sofiadev23.github.io/lumio-studio/
+🔗 **Live demo:** https://bysofiadev.github.io/lumio-studio/
 
 ## ⚖️ Intellectual Property & Copyright Notice
 * **Code**: 100% written by me from scratch. No source code was stolen or copied.
@@ -108,7 +108,7 @@ No build tools or dependencies required — just download and open in a browser.
 **Option 2 — Clone with Git**
  
 ```bash
-git clone https://github.com/sofiadev23/lumio-studio.git   
+git clone https://github.com/bysofiadev/lumio-studio.git   
 cd lumio-studio
 ```
  
