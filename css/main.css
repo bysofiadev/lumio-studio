@@ -447,8 +447,7 @@ a{
 }
 
 .service-row .service-description{
-  width: 100%;
-  max-width: 310px;
+  width: 85%;
 }
 
 .service-row .service-description h3 {
