@@ -359,13 +359,14 @@ a{
 
 .hero-stats-container .hero-stats {
   display: flex;
-  align-items: center;
+  align-items: top;
   justify-content: center;
   gap: 10px;
 }
 
 .hero-stats .stat-container {
   text-align: center;
+  width: 33%;
 }
 
 .hero-stats .stat-container h3 {
